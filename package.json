@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jasonjakyson/hello-world/issues"
   },
-  "homepage": "https://github.com/jasonjakyson/hello-world#readme"
+  "homepage": "https://github.com/jasonjakyson/hello-world#readme",
+  "publishConfig": {
+    "@jasonjakyson:registry": "https://npm.pkg.github.com"
+  }
 }
